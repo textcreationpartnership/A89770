@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nottinghamshires petition to the King: humbly imploring his sacred Majesty to returne and joyne with both his Houses of Parliament, being delivered by them personally to His Majesty the 30 day of August, opening therein the manifold dangers this distracted kingdome is like to fall into by reason of his Majesties withdrawing his splendent beams of comfort from both his Houses of Parliament. Also a petition presented unto his Majesty for the taking downe of his standard. Likewise a relation of the misdemeanors of some of the cavalliers towards the petitioners, and how thereby they were like to fall on both sides to a dangerous skirmish.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89770</idno><idno type="EEBO-CITATION">99872947</idno>
+  <idno type="VID">156029</idno>
+  <idno type="EEBO-PROQUEST">2248523470</idno>
+  
+            <idno type="STC">Wing N1413</idno>
+            <idno type="STC">Thomason E116_3</idno>
+            <idno type="STC">ESTC R6096</idno>
+            <idno type="PROQUEST">99872947</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872947e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89770)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156029)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E116[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nottinghamshires petition to the King: humbly imploring his sacred Majesty to returne and joyne with both his Houses of Parliament, being delivered by them personally to His Majesty the 30 day of August, opening therein the manifold dangers this distracted kingdome is like to fall into by reason of his Majesties withdrawing his splendent beams of comfort from both his Houses of Parliament. Also a petition presented unto his Majesty for the taking downe of his standard. Likewise a relation of the misdemeanors of some of the cavalliers towards the petitioners, and how thereby they were like to fall on both sides to a dangerous skirmish.</title>
+               </titleStmt>
+               <extent>[2], 8 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>September, 6. London, Printed for Thomas Banks,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[September, 6.] 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 6 is misnumbered as 8.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Nottinghamshire (England) --  History --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156029:1"/>
+            <p>
+               <hi>Nottinghamshires</hi> PETITION To the KING: Humbly imploring his sacred Majesty to returne and joyne with both his Houses of Parliament, being delivered by them personally to his Majesty the 30 day of <hi>August,</hi> opening therein the manifold dangers this distracted King<g ref="char:EOLhyphen"/>dome is like to fall into by reason of his Majesties withdrawing his splendent beams of com<g ref="char:EOLhyphen"/>fort from both his Houses of Parliament.</p>
+            <p>Also a Petition presented unto his <hi>Ma<g ref="char:EOLhyphen"/>jesty</hi> for the taking downe of His STANDARD.</p>
+            <p>Likewise a relation of the misdemeanors of some of the Cavalliers towards the Petitioners, and how thereby they were like to fall on both sides to a dangerous skir<g ref="char:EOLhyphen"/>mish.</p>
+            <p>
+               <hi>September,</hi> 6. <hi>London,</hi> Printed for <hi>Thomas Banks,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:156029:2"/>
+            <head>The humble Petition of Not<g ref="char:EOLhyphen"/>tingham-shire men to the King, the 30 of <hi>August,</hi> 1642.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ome of the chiefe Citizens of <hi>Notting<g ref="char:EOLhyphen"/>ham,</hi> and others of the neighbouring Parishes (both of Gentry and Comu<g ref="char:EOLhyphen"/>nalty) having intelligence of the Kings Majesties comming thither to set up His Standard, thought good to open and manifest their consciences in some particular points, con<g ref="char:EOLhyphen"/>cerning the present state of this distressed king<g ref="char:EOLhyphen"/>dome, the manifold dangers are like to ensue by his Majesties absenting himself from his both Houses of Parliament, the supposed (if not ma<g ref="char:EOLhyphen"/>nifested) malignant intentions of Papists and o<g ref="char:EOLhyphen"/>ther ill affected persons, who daily strive to withdraw His Majesties heart from His loving and loyall houses of Parliament, and others his
+<pb n="2" facs="tcp:156029:2"/> good Subjects, the petitioners entreating and promising with ample protestations that if his Majestie will unite himselfe in a happy uni<g ref="char:EOLhyphen"/>on with his both houses of Parliament, utterly rooting out (as infectious to his sacred person) all malignant and ill affected persons that per<g ref="char:EOLhyphen"/>swade his Majesty with wicked and diabolicall arguments to raise war against his both houses of Parliament, banishing from his presence all papisticall spirits that strive to throng the true Church of Christ with Innovations and pope<g ref="char:EOLhyphen"/>ry, that then, these said petitioners will with their lives &amp; fortunes assist his Majesty against any forreign disturbances abroad, or any civill hatcht rebellions at home, to the maintayning of the true protestant Religion, the safety and honour of his majesties person, the welfare and happy government of this his Kingdome.</p>
+            <div type="petition_proper">
+               <head>The true forme of the Petition sent to <hi>London</hi> by a <hi>Nottingham-shire</hi> Gentleman.</head>
+               <opener>
+                  <salute>Most gracious and dread Soveraign.</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">S</seg>Eeing many of your faithfull and loyall Subjects (yea this whole Kingdom) groa<g ref="char:EOLhyphen"/>ning under the heavy burthen of severalll dis<g ref="char:EOLhyphen"/>contents
+<pb n="3" facs="tcp:156029:3"/> to their utter ruine for ever, chiefly caused by the malicious practises of papists and other ill affected persons, that not only strive to egge on your sacred person (who of your selfe, (as we doubt not) farre from such thoughts) to contend with your both Houses of Parlia<g ref="char:EOLhyphen"/>ment, but doe endeavour also to pollute our Church, the true protestant Religion, with in<g ref="char:EOLhyphen"/>novations and popery to the utter ruine of the Kingdome, and to the hazard of body &amp; soul's damnation. We therefore the petitioners, not as factious men, affecting a popular parity in the Church, nor as Schismaticks ayming at the dis<g ref="char:EOLhyphen"/>solution of the state Ecclesiasticall, but as the faithfull servants of Christ, and loyall and obe<g ref="char:EOLhyphen"/>dient Subjects to your Majesty, do here humbly prostrate our selves at your sacred feet, desiring your majesty as you affect the good of your poor Subjects, the salvation of their souls, and the safety of your Kingdome, to re-sheath your sword of anger, and to knit your Royall person in a happy union with your both houses of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> extirpating all papisticall and ill affe<g ref="char:EOLhyphen"/>cted persons that with their daily malicious whisperings, doe strive to pollute your sacred
+<pb n="4" facs="tcp:156029:3"/> ears; for did your Majesty but pleas to forelook on the dangers that wil pursue on this Kingdom by reason of your Majesties withdrawing your royall person from your both houses of Parlia<g ref="char:EOLhyphen"/>ment, doubtlesse your pious intentions would soon consent to this our just and necessary peti<g ref="char:EOLhyphen"/>tion; oh how many thousand souls will be un<g ref="char:EOLhyphen"/>cas'd if the sword be once drawn, how many houses, nay (with grief need fear it) how many Citties wilbe utterly ruin'd; oh dread Soveraign be pleased therfore to consider that both sides are your Subjects and have not so dangerous a pestilence creep by so small a matter, besides, the absenting of your sacred person from your both Houses of Parliament, doth not only give life to the fatall inconveniences, but hinders the prosperous proceeding of our poor brethren in Ireland, which at this present lye in a most mi<g ref="char:EOLhyphen"/>serable and languishing estate, by the bloodi<g ref="char:EOLhyphen"/>nesse and tyranny of that rude crue of papists there overswaying, and for what we know (our domestick and bosome Romanists) may endea<g ref="char:EOLhyphen"/>vour here in England to attempt the like ty<g ref="char:EOLhyphen"/>ranny, when such swarmes of them are rooted in the very entralls of this Kingdome, for the
+<pb n="4" facs="tcp:156029:4"/> suppressing of these, relieving our poore bre<g ref="char:EOLhyphen"/>thren in Ireland, and for the bringing to an u<g ref="char:EOLhyphen"/>niforme governement the dis-joynted peice-meals of this Kingdom, what succour or reliefe can your Parliament doe I say in these without your royall presence to confirme their actions? lastly be pleased to take to your gratious consi<g ref="char:EOLhyphen"/>deration, the unnaturalnesse of this discontent and warre, that father must fight against son, son against brother, brother against Uncle; Oh what inhumanesse is it, and all in the interim a laughing stocke to forreigne Nations.</p>
+               <p>Now have your Princely Majesty obtained the knowledge of our griefs and fears, hoping that your highnesse (since we unript the sores) will vouchsafe us a speedy cure by the happy joyning of your royall person with your both houses of Parliament, which thing if your Maje<g ref="char:EOLhyphen"/>sty be pleased to do, we shall not only yeeld an eternall sacrifice of thankefulnesse for the same to your Majesty, but our lives and fortunes shall be at your highnesse service to manifest the same; this with all dutifull submission referring our selves to your Majesties pleasure whom we beseech for Christ his sake so to dispose your
+<pb n="5" facs="tcp:156029:4"/> royall heart to do therein as shall be to his glo<g ref="char:EOLhyphen"/>ry, your highnesse honour, the good of this Church, and the endlesse comfort of we your loyall Subjects, to which we all your Majesties most humble Subjects say amen.</p>
+               <p>
+                  <hi>No sooner was this Petition presented and read, but his</hi> Majesty <hi>(struck with clemency) immediatly caused his Standard to be taken downe, and was more willing than they that peace should be sent immediatly certain Articles by</hi> 2. <hi>of his Lords to both</hi> Houses <hi>of</hi> Parlia<g ref="char:EOLhyphen"/>ment, <hi>which reasonable Propositions being consented to by the said houses, should immediatly conclude a peace; but the Cavalliers all this while were not a litle moved at the happy successe this Petition found, therefore some certain of them being ful of gail and spleen, and withall taking a cloak for their wicked intention, saying that the Petitioners were rather Traytors then Subjects in offering to move his Majesty in such a way as is alltoge<g ref="char:EOLhyphen"/>ther a blemish to his honour, in that a King must stoop to his subjects, when 'tis more fitting the Subjects should submit to him, alleadging that his Prerogative was clipt, and ere they would suffer it, their lives (as for fortunes, they had none) should be sacrificed to redeeme his wrongs, in such like passions they sought out for the Petitioners, and having intelligence where some of them
+<pb n="8" facs="tcp:156029:5"/> were especially the chiefe) hastned unto them and would have fallen upon them, but they on the other side suspe<g ref="char:EOLhyphen"/>cting (or at least wise fearing) some ill actions or other pretended against them by the Cavalliers, sent with all speed to the Major of the City, informing him in wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t danger they were, and withall intreating that some of the Trained Bands should be in a readinesse to quell all uproars if it chanc'd that the Cavalliers should bee over busy</hi> (according to their usuall customes) in set<g ref="char:EOLhyphen"/>ting bloodily upon any of his Majesties faithfull Subjects, which thing the Major soone accom<g ref="char:EOLhyphen"/>plished, and the Cavalliers were faine to return as they came without further attempting any such wicked enterprize.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
